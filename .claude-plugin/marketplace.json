@@ -5,7 +5,7 @@
     {
       "name": "penalista-italia-test",
       "description": "Plugin di TEST per verificare il meccanismo di aggiornamento in Cowork. Non contiene il kit reale.",
-      "version": "0.1.0",
+      "version": "0.2.0",
       "source": "./penalista-italia-test",
       "author": { "name": "Synthos Logic" },
       "homepage": "https://github.com/Synthos-Logic/penalista-italia-test",
